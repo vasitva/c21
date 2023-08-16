@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../class 23"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MatterJSBoilerPlate-main"
+	}
+}
